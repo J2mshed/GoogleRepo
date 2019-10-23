@@ -42,7 +42,7 @@ public class Test1Test {
       builder.moveToElement(element).perform();
     }
     driver.findElement(By.name("q")).click();
-    driver.findElement(By.name("q")).sendKeys("sleniumhh");
+    driver.findElement(By.name("q")).sendKeys("Selenium - Web Browser AutomaAion");
     driver.findElement(By.name("q")).sendKeys(Keys.ENTER);
     driver.findElement(By.xpath("//a[@id=\'fprsl\']/b/i")).click();
     driver.findElement(By.xpath("//h3")).click();

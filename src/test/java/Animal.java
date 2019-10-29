@@ -1,4 +1,5 @@
 public class Animal {
-    String name;
-    String voice;
+    public static void main(String[] args) {
+     Animal animal = new Animal();
+    }
 }

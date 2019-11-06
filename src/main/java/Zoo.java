@@ -15,5 +15,6 @@ public class Zoo {
         System.out.println("Name:\t" + myFavoriteAnimal.getName());
         System.out.println("Age:\t" + myFavoriteAnimal.getAge());
         System.out.println("Weight:\t" + myFavoriteAnimal.getWeight());
+
     }
 }

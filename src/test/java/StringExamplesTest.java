@@ -1,11 +1,14 @@
+
 import org.junit.Assert;
 import org.junit.Test;
 
-public class StringExamples {
-    static String test;
+
+
+public class StringExamplesTest {
+
 
     @Test
-    public static void main(String[] args) {
+    public void main(String[] args) {
         // append string
         System.out.println("abc"+"xyz"); // abcxyz
         System.out.println("abc".concat("xyz")); //abcxyz

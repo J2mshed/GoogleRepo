@@ -5,6 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
 public class ReverseNumberTest {
+
     /**
      * This method reverses digit
      *
@@ -12,6 +13,8 @@ public class ReverseNumberTest {
      * @return reversed digit
      */
     public static int getReversedDigit(int digit) {
+
+
         int reversedDigit = digit;
 
         digit = Math.abs(digit);

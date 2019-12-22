@@ -1,3 +1,1 @@
-public class TestExample {
-  sout
-}
+public class TestExample {}

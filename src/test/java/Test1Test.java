@@ -47,5 +47,6 @@ public class Test1Test {
     driver.findElement(By.xpath("//a[@id=\'fprsl\']/b/i")).click();
     driver.findElement(By.xpath("//h3")).click();
     driver.findElement(By.linkText("Download Selenium")).click();
+    sout;
   }
 }

@@ -1,3 +1,2 @@
 public class TestExample {
-  sout
 }

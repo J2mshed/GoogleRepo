@@ -1,3 +1,3 @@
 public class TestExample {
-  sout
+  sout("askjgedjkgwef owedghfhe efwoee fowehfowe fowef")
 }
